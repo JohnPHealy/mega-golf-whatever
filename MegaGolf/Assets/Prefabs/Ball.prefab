@@ -130,6 +130,9 @@ MonoBehaviour:
   maxForce: 5
   minSpeed: 0.6
   myLR: {fileID: 7737572343304792929}
+  shotTaken:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &9066062088641920023
 GameObject:
   m_ObjectHideFlags: 0
