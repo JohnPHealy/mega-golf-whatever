@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/JamesGalliganlvl1.unity
     guid: b155fd0a192c66e4aa4487e2a06fee5d
   - enabled: 1
-    path: Assets/Scenes/NaomiKaufman_Level1.unity
-    guid: 9d052009d40bf104cb7cf1ff62a3c5ba
-  - enabled: 1
     path: Assets/Scenes/NaomiKaufman_Level2.unity
     guid: cd1f3c356a7020540b252e0f60421f39
+  - enabled: 1
+    path: Assets/Scenes/NaomiKaufman_Level1.unity
+    guid: 9d052009d40bf104cb7cf1ff62a3c5ba
   - enabled: 1
     path: Assets/Scenes/JamesGalliganlvl2.unity
     guid: 3057183071bdca94094baf209525e5da
