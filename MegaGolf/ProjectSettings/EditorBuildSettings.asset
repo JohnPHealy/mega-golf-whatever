@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Niamh Level 1.unity
+    guid: 3a5a3d4b906e59f40a8d3ddfda3bd2bd
+  - enabled: 1
+    path: Assets/Scenes/Niamh Level 2.unity
+    guid: 365d9fcb85feec84ba390b2e76a72234
+  - enabled: 1
     path: Assets/Scenes/JamesGalliganlvl1.unity
     guid: b155fd0a192c66e4aa4487e2a06fee5d
   - enabled: 1
